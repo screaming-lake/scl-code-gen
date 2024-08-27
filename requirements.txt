@@ -1,0 +1,10 @@
+zhipuai
+flask
+torch
+sentence_transformers
+llama_index
+nltk
+jieba
+bm25s
+matplotlib
+IPython
